@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d8c22205-3489-40cf-a068-40c76b4d9afb" name="3dBuna" url="">
+        <fileTransfer host="focus.cityhost.com.ua" port="21" password="df98df9edfc9df9ddf92df99df98df9ddf9ddf9e" username="ch3dbun4962">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
